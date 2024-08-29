@@ -1,0 +1,26 @@
+*{
+    background-color:#222;
+    color: white;
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: #fff;
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    filter: drop-shadow(2px 2px 10px rgb(128, 0, 92));
+    max-width: 5%;
+}
+.banner{
+    background-image:url(https://t3.ftcdn.net/jpg/05/55/35/96/360_F_555359600_ugPv704RasCZclc19uTB51Q1YlzTsI1N.jpg) ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 50%;
+    height: 448px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
